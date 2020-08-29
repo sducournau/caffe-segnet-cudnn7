@@ -4,7 +4,7 @@
 #include <limits>
 
 #include "caffe/common.hpp"
-#include "caffe/util/math_functions.hpp"
+#include "cuda_runtime.hpp"
 #include "caffe/util/rng.hpp"
 
 namespace caffe {
